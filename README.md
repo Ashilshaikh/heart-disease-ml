@@ -9,7 +9,7 @@ This project uses Machine Learning to predict whether a person has heart disease
 ## 🚀 Features
 - Data preprocessing and cleaning
 - Machine Learning model training
-- Prediction using Logistic Regression / KNN
+- Prediction using Logistic Regression
 - Interactive web app using Streamlit
 
 ---
